@@ -1,0 +1,9 @@
+/build/*
+!/build/schmgr
+
+/build/schmgr/*
+!/build/schmgr/cefclient
+
+/build/schmgr/cefclient/*
+!/build/schmgr/cefclient/Release
+build/schmgr/cefclient/Release/*.log
